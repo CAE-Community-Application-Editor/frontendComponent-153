@@ -42,7 +42,7 @@ var init = function() {
 
   client = new Las2peerWidgetLibrary("$Microservice_Url$/music", iwcCallback, '*');
 
-  $('#p_6b1d4').on('click', function() {
+  $('#button_55b34').on('click', function() {
     //start parameter initiation
 
     //end parameter initiation
